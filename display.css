@@ -1,0 +1,34 @@
+.block {
+    display: block;
+    width: 20px;
+    height: 50px;
+    background-color: aqua;
+    margin: 50px;
+    padding: 50px;
+}
+.inline span {
+    display: inline;
+    width: 10px;
+    height: 50px;
+    padding: 20px;
+    margin: 40px;
+    background-color: burlywood;
+}
+
+.inlineblock span {
+    display: inline-block;
+    width: 10px;
+    height: 50px;
+    padding: 20px;
+    margin: 40px;
+    background-color: brown;
+}
+
+.none span{
+    display: none;
+    width: 10px;
+    height: 50px;
+    padding: 20px;
+    margin: 40px;
+    background-color: rgb(42, 165, 46);
+}
